@@ -1,6 +1,6 @@
-# 最小的 angular
+# 最小的 angular hello world
 
-zip 6.6kb
+ivy 宣传的时候说是能 4k，实际情况 全部 JS 文件 zip 6.6 KB
 
 ```console
 chunk {} main.df1cee931535516f6b8f.js (main) 16.8 kB [entry] [rendered]
