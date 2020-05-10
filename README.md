@@ -1,6 +1,6 @@
 # 最小的 angular hello world
 
-ivy 宣传的时候说是能 4k，实际情况 全部 JS 文件 zip 6.6 KB
+ivy 宣传的时候说是能 4k，实际情况现在全部 JS 文件 zip 后大概 7 KB，已经非常完美，在这里将记录大小变化
 
 | version     | size(B) | zip(B) |
 | ----------- | ------- | ------ |
