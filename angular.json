@@ -38,7 +38,6 @@
               "extractLicenses": true,
               "vendorChunk": false,
               "commonChunk": false,
-              "es5BrowserSupport": false,
               "buildOptimizer": true,
               "singleBundle": true,
               "budgets": [
