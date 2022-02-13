@@ -19,12 +19,13 @@ ivy 宣传的时候说是能 4k，实际情况现在全部 JS 文件 zip 后大�
 | 13.0.1       | 22,774  | 8,510  |
 | 13.1.2       | 22,771  | 8,494  |
 | 13.2.0       | 23,292  | 8,739  |
+| 13.2.2       | 23,627  | 8,823  |
 
 ```console
 Initial Chunk Files      | Names         | Raw Size | Estimated Transfer Size
-main.c8fd3cf483dd97dd.js | main          | 22.75 kB |                 7.60 kB
+main.d2e6ec2e9f608c5b.js | main          | 23.07 kB |                 7.67 kB
 
-                         | Initial Total | 22.75 kB |                 7.60 kB
+                         | Initial Total | 23.07 kB |                 7.67 kB
 
-Build at: 2022-01-31T03:00:42.724Z - Hash: ba731a2792e8a0c9 - Time: 2749ms
+Build at: 2022-02-13T14:46:28.142Z - Hash: 1d2e89338fb15c1e - Time: 8490ms
 ```
